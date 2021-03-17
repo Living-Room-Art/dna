@@ -1,0 +1,455 @@
+uuid: 408cdb11-40e7-463e-b4df-669f2c97e77f
+timestamp: 1615982696646
+title: OCCUPANT UNSUBTLY ELDEST WASHING BANKABLE
+config:
+  transparent: transparent
+  order: chaos
+  item: rectangle and circle
+  numItems: many
+size:
+  w: 5000
+  h: 3500
+style: neon
+pallete:
+  - "#4deeea"
+  - "#74ee15"
+  - "#ffe700"
+  - "#f000ff"
+  - "#001eff"
+bgcolor: "#4deeea"
+bgcolorId: 0
+rect:
+  - color: "#f000ff"
+    colorId: 3
+    transparent: 95
+    coords:
+      x: 2840
+      y: 838
+      w: 3198
+      h: 2104
+    angle: 131
+  - color: "#001eff"
+    colorId: 4
+    transparent: 95
+    coords:
+      x: 3608
+      y: 199
+      w: 1144
+      h: 19
+    angle: 223
+  - color: "#ffe700"
+    colorId: 2
+    transparent: 95
+    coords:
+      x: 945
+      y: 1897
+      w: 950
+      h: 649
+    angle: 68
+  - color: "#ffe700"
+    colorId: 2
+    transparent: 95
+    coords:
+      x: 3126
+      y: 1889
+      w: 1062
+      h: 2479
+    angle: 169
+  - color: "#4deeea"
+    colorId: 0
+    transparent: 95
+    coords:
+      x: 1528
+      y: 1949
+      w: 829
+      h: 2123
+    angle: 47
+  - color: "#001eff"
+    colorId: 4
+    transparent: 95
+    coords:
+      x: 1712
+      y: 1914
+      w: 2519
+      h: 1687
+    angle: 189
+  - color: "#001eff"
+    colorId: 4
+    transparent: 95
+    coords:
+      x: 24
+      y: 2204
+      w: 1825
+      h: 2439
+    angle: 280
+  - color: "#f000ff"
+    colorId: 3
+    transparent: 95
+    coords:
+      x: 1274
+      y: 3292
+      w: 3273
+      h: 754
+    angle: 320
+  - color: "#74ee15"
+    colorId: 1
+    transparent: 95
+    coords:
+      x: 3411
+      y: 1455
+      w: 2031
+      h: 1016
+    angle: 280
+  - color: "#001eff"
+    colorId: 4
+    transparent: 95
+    coords:
+      x: 2140
+      y: 2170
+      w: 2475
+      h: 902
+    angle: 305
+  - color: "#4deeea"
+    colorId: 0
+    transparent: 95
+    coords:
+      x: 4471
+      y: 2277
+      w: 262
+      h: 2563
+    angle: 27
+  - color: "#ffe700"
+    colorId: 2
+    transparent: 95
+    coords:
+      x: 2343
+      y: 2793
+      w: 1451
+      h: 927
+    angle: 47
+  - color: "#74ee15"
+    colorId: 1
+    transparent: 95
+    coords:
+      x: 4461
+      y: 3224
+      w: 3369
+      h: 2184
+    angle: 246
+  - color: "#f000ff"
+    colorId: 3
+    transparent: 95
+    coords:
+      x: 4948
+      y: 2177
+      w: 2694
+      h: 669
+    angle: 58
+  - color: "#f000ff"
+    colorId: 3
+    transparent: 95
+    coords:
+      x: 4646
+      y: 1567
+      w: 2287
+      h: 1942
+    angle: 159
+  - color: "#74ee15"
+    colorId: 1
+    transparent: 95
+    coords:
+      x: 1438
+      y: 1824
+      w: 2712
+      h: 81
+    angle: 28
+  - color: "#001eff"
+    colorId: 4
+    transparent: 95
+    coords:
+      x: 2553
+      y: 379
+      w: 1009
+      h: 1207
+    angle: 209
+  - color: "#f000ff"
+    colorId: 3
+    transparent: 95
+    coords:
+      x: 2057
+      y: 3025
+      w: 2560
+      h: 1309
+    angle: 331
+  - color: "#001eff"
+    colorId: 4
+    transparent: 95
+    coords:
+      x: 598
+      y: 341
+      w: 3278
+      h: 646
+    angle: 179
+  - color: "#4deeea"
+    colorId: 0
+    transparent: 95
+    coords:
+      x: 4886
+      y: 1447
+      w: 2582
+      h: 1512
+    angle: 123
+  - color: "#001eff"
+    colorId: 4
+    transparent: 95
+    coords:
+      x: 2226
+      y: 428
+      w: 2806
+      h: 451
+    angle: 196
+  - color: "#f000ff"
+    colorId: 3
+    transparent: 95
+    coords:
+      x: 978
+      y: 2499
+      w: 1448
+      h: 805
+    angle: 347
+  - color: "#4deeea"
+    colorId: 0
+    transparent: 95
+    coords:
+      x: 818
+      y: 228
+      w: 3711
+      h: 1096
+    angle: 40
+  - color: "#74ee15"
+    colorId: 1
+    transparent: 95
+    coords:
+      x: 2137
+      y: 1556
+      w: 1455
+      h: 2342
+    angle: 124
+  - color: "#74ee15"
+    colorId: 1
+    transparent: 95
+    coords:
+      x: 2550
+      y: 3273
+      w: 2706
+      h: 147
+    angle: 283
+  - color: "#001eff"
+    colorId: 4
+    transparent: 95
+    coords:
+      x: 1293
+      y: 1048
+      w: 49
+      h: 875
+    angle: 150
+  - color: "#4deeea"
+    colorId: 0
+    transparent: 95
+    coords:
+      x: 707
+      y: 1798
+      w: 3699
+      h: 1382
+    angle: 11
+  - color: "#74ee15"
+    colorId: 1
+    transparent: 95
+    coords:
+      x: 3145
+      y: 603
+      w: 377
+      h: 2236
+    angle: 322
+  - color: "#f000ff"
+    colorId: 3
+    transparent: 95
+    coords:
+      x: 662
+      y: 1622
+      w: 3564
+      h: 1949
+    angle: 358
+  - color: "#ffe700"
+    colorId: 2
+    transparent: 95
+    coords:
+      x: 2802
+      y: 3197
+      w: 2634
+      h: 334
+    angle: 194
+  - color: "#f000ff"
+    colorId: 3
+    transparent: 95
+    coords:
+      x: 4540
+      y: 1426
+      w: 768
+      h: 2579
+    angle: 119
+  - color: "#ffe700"
+    colorId: 2
+    transparent: 95
+    coords:
+      x: 1725
+      y: 132
+      w: 3326
+      h: 1274
+    angle: 234
+  - color: "#f000ff"
+    colorId: 3
+    transparent: 95
+    coords:
+      x: 12
+      y: 2078
+      w: 2066
+      h: 343
+    angle: 155
+circle:
+  - color: "#4deeea"
+    colorId: 0
+    transparent: 95
+    coords:
+      x: 4540
+      y: 3441
+      r: 1829
+    angle: 5
+  - color: "#f000ff"
+    colorId: 3
+    transparent: 95
+    coords:
+      x: 1765
+      y: 2725
+      r: 338
+    angle: 173
+  - color: "#4deeea"
+    colorId: 0
+    transparent: 95
+    coords:
+      x: 3673
+      y: 3440
+      r: 903.5
+    angle: 359
+  - color: "#74ee15"
+    colorId: 1
+    transparent: 95
+    coords:
+      x: 2774
+      y: 251
+      r: 1702
+    angle: 206
+  - color: "#f000ff"
+    colorId: 3
+    transparent: 95
+    coords:
+      x: 2520
+      y: 1914
+      r: 892.5
+    angle: 303
+  - color: "#4deeea"
+    colorId: 0
+    transparent: 95
+    coords:
+      x: 366
+      y: 2791
+      r: 1232
+    angle: 196
+  - color: "#4deeea"
+    colorId: 0
+    transparent: 95
+    coords:
+      x: 1551
+      y: 1754
+      r: 1277
+    angle: 0
+  - color: "#ffe700"
+    colorId: 2
+    transparent: 95
+    coords:
+      x: 2057
+      y: 1845
+      r: 1591
+    angle: 117
+  - color: "#4deeea"
+    colorId: 0
+    transparent: 95
+    coords:
+      x: 4716
+      y: 2144
+      r: 1621
+    angle: 84
+  - color: "#ffe700"
+    colorId: 2
+    transparent: 95
+    coords:
+      x: 4580
+      y: 1303
+      r: 877
+    angle: 109
+  - color: "#4deeea"
+    colorId: 0
+    transparent: 95
+    coords:
+      x: 1045
+      y: 3021
+      r: 8
+    angle: 148
+  - color: "#f000ff"
+    colorId: 3
+    transparent: 95
+    coords:
+      x: 4133
+      y: 2499
+      r: 472
+    angle: 6
+  - color: "#ffe700"
+    colorId: 2
+    transparent: 95
+    coords:
+      x: 3437
+      y: 837
+      r: 1683
+    angle: 248
+  - color: "#74ee15"
+    colorId: 1
+    transparent: 95
+    coords:
+      x: 978
+      y: 521
+      r: 790.5
+    angle: 70
+  - color: "#4deeea"
+    colorId: 0
+    transparent: 95
+    coords:
+      x: 3647
+      y: 1055
+      r: 736
+    angle: 236
+  - color: "#ffe700"
+    colorId: 2
+    transparent: 95
+    coords:
+      x: 2496
+      y: 2017
+      r: 1813
+    angle: 313
+  - color: "#001eff"
+    colorId: 4
+    transparent: 95
+    coords:
+      x: 4810
+      y: 945
+      r: 397
+    angle: 240
