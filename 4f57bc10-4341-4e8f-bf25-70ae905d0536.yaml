@@ -1,0 +1,472 @@
+uuid: 4f57bc10-4341-4e8f-bf25-70ae905d0536
+timestamp: 1615982696647
+title: REFORMIST RASPING EXPOSABLE ECONOMY OVERHEAD
+config:
+  transparent: 123
+  order: chaos
+  item: rectangle
+  numItems: many
+size:
+  w: 5000
+  h: 3500
+style: ffffff-fde10d-fc7f36-06b1a6-17223a
+pallete:
+  - "#ffffff"
+  - "#fde10d"
+  - "#fc7f36"
+  - "#06b1a6"
+  - "#17223a"
+bgcolor: "#ffffff"
+bgcolorId: 0
+rect:
+  - color: "#06b1a6"
+    colorId: 3
+    transparent: 123
+    coords:
+      x: 3608
+      y: 1428
+      w: 2919
+      h: 2574
+    angle: 189
+  - color: "#ffffff"
+    colorId: 0
+    transparent: 123
+    coords:
+      x: 393
+      y: 2283
+      w: 411
+      h: 1458
+    angle: 204
+  - color: "#ffffff"
+    colorId: 0
+    transparent: 123
+    coords:
+      x: 2603
+      y: 1179
+      w: 1717
+      h: 548
+    angle: 170
+  - color: "#ffffff"
+    colorId: 0
+    transparent: 123
+    coords:
+      x: 1054
+      y: 3239
+      w: 2766
+      h: 1183
+    angle: 330
+  - color: "#fde10d"
+    colorId: 1
+    transparent: 123
+    coords:
+      x: 2307
+      y: 1150
+      w: 1114
+      h: 1438
+    angle: 256
+  - color: "#fc7f36"
+    colorId: 2
+    transparent: 123
+    coords:
+      x: 3790
+      y: 3395
+      w: 529
+      h: 2495
+    angle: 94
+  - color: "#ffffff"
+    colorId: 0
+    transparent: 123
+    coords:
+      x: 3805
+      y: 2618
+      w: 2545
+      h: 2177
+    angle: 184
+  - color: "#fc7f36"
+    colorId: 2
+    transparent: 123
+    coords:
+      x: 2641
+      y: 630
+      w: 2242
+      h: 170
+    angle: 251
+  - color: "#06b1a6"
+    colorId: 3
+    transparent: 123
+    coords:
+      x: 3847
+      y: 2653
+      w: 1154
+      h: 1825
+    angle: 0
+  - color: "#17223a"
+    colorId: 4
+    transparent: 123
+    coords:
+      x: 2513
+      y: 2341
+      w: 2559
+      h: 916
+    angle: 220
+  - color: "#17223a"
+    colorId: 4
+    transparent: 123
+    coords:
+      x: 1598
+      y: 2115
+      w: 1350
+      h: 790
+    angle: 226
+  - color: "#ffffff"
+    colorId: 0
+    transparent: 123
+    coords:
+      x: 4106
+      y: 3129
+      w: 1099
+      h: 171
+    angle: 180
+  - color: "#06b1a6"
+    colorId: 3
+    transparent: 123
+    coords:
+      x: 4114
+      y: 1544
+      w: 3618
+      h: 672
+    angle: 15
+  - color: "#17223a"
+    colorId: 4
+    transparent: 123
+    coords:
+      x: 1441
+      y: 2975
+      w: 394
+      h: 68
+    angle: 18
+  - color: "#fde10d"
+    colorId: 1
+    transparent: 123
+    coords:
+      x: 3913
+      y: 850
+      w: 1954
+      h: 399
+    angle: 256
+  - color: "#fc7f36"
+    colorId: 2
+    transparent: 123
+    coords:
+      x: 891
+      y: 2501
+      w: 1067
+      h: 1722
+    angle: 223
+  - color: "#06b1a6"
+    colorId: 3
+    transparent: 123
+    coords:
+      x: 2940
+      y: 2760
+      w: 2820
+      h: 2044
+    angle: 331
+  - color: "#06b1a6"
+    colorId: 3
+    transparent: 123
+    coords:
+      x: 3336
+      y: 2746
+      w: 1079
+      h: 255
+    angle: 330
+  - color: "#17223a"
+    colorId: 4
+    transparent: 123
+    coords:
+      x: 1627
+      y: 1074
+      w: 2332
+      h: 2402
+    angle: 270
+  - color: "#ffffff"
+    colorId: 0
+    transparent: 123
+    coords:
+      x: 4569
+      y: 826
+      w: 1023
+      h: 1704
+    angle: 352
+  - color: "#ffffff"
+    colorId: 0
+    transparent: 123
+    coords:
+      x: 2329
+      y: 2267
+      w: 2590
+      h: 260
+    angle: 146
+  - color: "#ffffff"
+    colorId: 0
+    transparent: 123
+    coords:
+      x: 2244
+      y: 20
+      w: 2656
+      h: 2496
+    angle: 58
+  - color: "#ffffff"
+    colorId: 0
+    transparent: 123
+    coords:
+      x: 4115
+      y: 3322
+      w: 3556
+      h: 1100
+    angle: 133
+  - color: "#fc7f36"
+    colorId: 2
+    transparent: 123
+    coords:
+      x: -17
+      y: 3362
+      w: 3688
+      h: 1296
+    angle: 63
+  - color: "#06b1a6"
+    colorId: 3
+    transparent: 123
+    coords:
+      x: 4692
+      y: 2091
+      w: 940
+      h: 1378
+    angle: 118
+  - color: "#fc7f36"
+    colorId: 2
+    transparent: 123
+    coords:
+      x: 4792
+      y: 829
+      w: 2845
+      h: 1868
+    angle: 173
+  - color: "#06b1a6"
+    colorId: 3
+    transparent: 123
+    coords:
+      x: 1838
+      y: 1235
+      w: 2547
+      h: 1338
+    angle: 220
+  - color: "#06b1a6"
+    colorId: 3
+    transparent: 123
+    coords:
+      x: 926
+      y: 179
+      w: 441
+      h: 2100
+    angle: 29
+  - color: "#fde10d"
+    colorId: 1
+    transparent: 123
+    coords:
+      x: 2948
+      y: 2668
+      w: 1737
+      h: 2534
+    angle: 359
+  - color: "#ffffff"
+    colorId: 0
+    transparent: 123
+    coords:
+      x: 1836
+      y: 2987
+      w: 1516
+      h: 117
+    angle: 355
+  - color: "#17223a"
+    colorId: 4
+    transparent: 123
+    coords:
+      x: 3077
+      y: 1991
+      w: 1298
+      h: 610
+    angle: 270
+  - color: "#fde10d"
+    colorId: 1
+    transparent: 123
+    coords:
+      x: 782
+      y: 3121
+      w: 1694
+      h: 575
+    angle: 21
+  - color: "#fc7f36"
+    colorId: 2
+    transparent: 123
+    coords:
+      x: 4340
+      y: 3233
+      w: 800
+      h: 497
+    angle: 312
+  - color: "#17223a"
+    colorId: 4
+    transparent: 123
+    coords:
+      x: 4142
+      y: 434
+      w: 1318
+      h: 2215
+    angle: 115
+  - color: "#fc7f36"
+    colorId: 2
+    transparent: 123
+    coords:
+      x: 129
+      y: 3118
+      w: 3250
+      h: 907
+    angle: 200
+  - color: "#ffffff"
+    colorId: 0
+    transparent: 123
+    coords:
+      x: 4762
+      y: 648
+      w: 2885
+      h: 156
+    angle: 50
+  - color: "#17223a"
+    colorId: 4
+    transparent: 123
+    coords:
+      x: 4119
+      y: 1944
+      w: 950
+      h: 1420
+    angle: 63
+  - color: "#fc7f36"
+    colorId: 2
+    transparent: 123
+    coords:
+      x: 2167
+      y: 1026
+      w: 2358
+      h: 88
+    angle: 176
+  - color: "#17223a"
+    colorId: 4
+    transparent: 123
+    coords:
+      x: 768
+      y: 1730
+      w: 2631
+      h: 763
+    angle: 258
+  - color: "#fc7f36"
+    colorId: 2
+    transparent: 123
+    coords:
+      x: 344
+      y: 2227
+      w: 2181
+      h: 2062
+    angle: 15
+  - color: "#17223a"
+    colorId: 4
+    transparent: 123
+    coords:
+      x: 2378
+      y: 1338
+      w: 2766
+      h: 1484
+    angle: 237
+  - color: "#06b1a6"
+    colorId: 3
+    transparent: 123
+    coords:
+      x: 3750
+      y: 717
+      w: 1526
+      h: 494
+    angle: 144
+  - color: "#fc7f36"
+    colorId: 2
+    transparent: 123
+    coords:
+      x: 2077
+      y: 2553
+      w: 2776
+      h: 1085
+    angle: 228
+  - color: "#fde10d"
+    colorId: 1
+    transparent: 123
+    coords:
+      x: 4441
+      y: 2909
+      w: 2421
+      h: 484
+    angle: 347
+  - color: "#fc7f36"
+    colorId: 2
+    transparent: 123
+    coords:
+      x: 351
+      y: 1533
+      w: 219
+      h: 1560
+    angle: 141
+  - color: "#fde10d"
+    colorId: 1
+    transparent: 123
+    coords:
+      x: 4094
+      y: 3188
+      w: 2139
+      h: 1281
+    angle: 98
+  - color: "#17223a"
+    colorId: 4
+    transparent: 123
+    coords:
+      x: 1004
+      y: 1839
+      w: 3135
+      h: 1452
+    angle: 146
+  - color: "#ffffff"
+    colorId: 0
+    transparent: 123
+    coords:
+      x: 3224
+      y: 749
+      w: 462
+      h: 1647
+    angle: 285
+  - color: "#ffffff"
+    colorId: 0
+    transparent: 123
+    coords:
+      x: 3389
+      y: 1296
+      w: 1273
+      h: 2265
+    angle: 150
+  - color: "#fc7f36"
+    colorId: 2
+    transparent: 123
+    coords:
+      x: 2492
+      y: 2236
+      w: 1382
+      h: 1795
+    angle: 309
+circle: []
